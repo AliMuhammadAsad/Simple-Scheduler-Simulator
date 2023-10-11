@@ -6,9 +6,9 @@ The supported scheduling algorithms (basic) are:
 
 <table>
     <tr>
-        <th>FIFO - First In First Out</th>
-        <th>SJF - Shortest Job First</th>
-        <th>STCF - Shortest Time to Completion First</th>
-        <th>RR - Round Robin</th>
+        <td>FIFO - First In First Out</td>
+        <td>SJF - Shortest Job First</td>
+        <td>STCF - Shortest Time to Completion First</td>
+        <td>RR - Round Robin</td>
     </tr>
 </table>
