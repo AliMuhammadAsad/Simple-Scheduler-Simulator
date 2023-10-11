@@ -4,4 +4,11 @@ This program was made on receiving the homework assignment for the course ```CS2
 
 The supported scheduling algorithms (basic) are:
 
-| FIFO -First In First Out | SJF - Shortest Job First | STCF - Shortest Time to Completion First | RR - Round Robin |
+<table>
+    <tr>
+        <th>FIFO - First In First Out</th>
+        <th>SJF - Shortest Job First</th>
+        <th>STCF - Shortest Time to Completion First</th>
+        <th>RR - Round Robin</th>
+    </tr>
+</table>
